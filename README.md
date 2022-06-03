@@ -28,6 +28,6 @@ Clients are increasingly looking for fast and effective means to quickly and fre
 
 ## Contributers
 
-[Aravinda B](aravinda.b2019@vitstudent.ac.in)
-[Narenda G O](narenda.go2019@vitstudent.ac.in)
+[Aravinda B](aravinda.b2019@vitstudent.ac.in)br
+[Narenda G O](narenda.go2019@vitstudent.ac.in)br
 [Divyashree S](divyadazle2001@gmail.com)
